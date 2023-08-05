@@ -20,7 +20,7 @@ ssh pi@wazigate
 
 - Clone the repository using Git:
 ```
-git clone 
+git clone https://github.com/SolomonGithu/rak5146_lora_packet_forwarder_for_wazigate.git
 ```
 - Navigate into the repository with the command:
 ```
