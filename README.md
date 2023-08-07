@@ -7,7 +7,7 @@ RAK2287/RАК5146 Pi HAT is a converter board with a Raspberry Pi form factor th
 
 ## Quick start -  hardware setup
 
-- Connect the GPS and LoRa antenna to the ufl connector on the RAK5146 PiHAT
+- Connect the GPS and LoRa antenna to the ufl connectors on the RAK5146 PiHAT
 - Afterwards mount the RAK5146 PiHAT on a Raspberry Pi 3/4
 - Flash a WaziGate image on an SD and mount this SD card on the Raspberry Pi
 
